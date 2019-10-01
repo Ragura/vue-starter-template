@@ -17,7 +17,7 @@ Front-end project template for Vue CLI 3. Contains:
 Clone this repository to get started.
 
 ```sh
-git clone https://github.com/Ragura/vue-starter-template
+git clone https://github.com/Ragura/vue-starter-template.git
 ```
 
 ### Install dependencies
