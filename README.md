@@ -1,29 +1,39 @@
-# frontend
+# Vue Template
 
-## Project setup
-```
-yarn install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Front-end project template for Vue CLI 3. Contains:
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+- Vue Router
+- Vuex
+- SCSS
+- TailwindCSS (with PurgeCSS)
+- ESLint Prettier plugin
 
-### Run your tests
-```
-yarn run test
-```
+## Usage
 
-### Lints and fixes files
-```
-yarn run lint
+### Clone repository
+
+Clone this repository to get started.
+
+```sh
+git clone https://github.com/Ragura/vue-starter-template
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Install dependencies
+
+```sh
+yarn
+```
+
+### Serve project
+
+```sh
+yarn serve
+```
+
+### Build project for production
+
+```sh
+yarn build
+```
